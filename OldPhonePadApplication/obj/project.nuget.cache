@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "48lGN9C1Gl4=",
+  "success": true,
+  "projectFilePath": "D:\\Myat Sandar Khaing\\A80808\\OldPhonePad_Application\\OldPhonePadApplication\\OldPhonePadApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SL\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
+    "C:\\Users\\SL\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

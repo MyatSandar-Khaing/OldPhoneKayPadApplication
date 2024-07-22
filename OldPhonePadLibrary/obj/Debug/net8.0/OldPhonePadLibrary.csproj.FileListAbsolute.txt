@@ -1,0 +1,11 @@
+D:\Myat Sandar Khaing\A80808\OldPhonePad_Application\OldPhonePadLibrary\bin\Debug\net8.0\OldPhonePadLibrary.deps.json
+D:\Myat Sandar Khaing\A80808\OldPhonePad_Application\OldPhonePadLibrary\bin\Debug\net8.0\OldPhonePadLibrary.dll
+D:\Myat Sandar Khaing\A80808\OldPhonePad_Application\OldPhonePadLibrary\bin\Debug\net8.0\OldPhonePadLibrary.pdb
+D:\Myat Sandar Khaing\A80808\OldPhonePad_Application\OldPhonePadLibrary\obj\Debug\net8.0\OldPhonePadLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Myat Sandar Khaing\A80808\OldPhonePad_Application\OldPhonePadLibrary\obj\Debug\net8.0\OldPhonePadLibrary.AssemblyInfoInputs.cache
+D:\Myat Sandar Khaing\A80808\OldPhonePad_Application\OldPhonePadLibrary\obj\Debug\net8.0\OldPhonePadLibrary.AssemblyInfo.cs
+D:\Myat Sandar Khaing\A80808\OldPhonePad_Application\OldPhonePadLibrary\obj\Debug\net8.0\OldPhonePadLibrary.csproj.CoreCompileInputs.cache
+D:\Myat Sandar Khaing\A80808\OldPhonePad_Application\OldPhonePadLibrary\obj\Debug\net8.0\OldPhonePadLibrary.dll
+D:\Myat Sandar Khaing\A80808\OldPhonePad_Application\OldPhonePadLibrary\obj\Debug\net8.0\refint\OldPhonePadLibrary.dll
+D:\Myat Sandar Khaing\A80808\OldPhonePad_Application\OldPhonePadLibrary\obj\Debug\net8.0\OldPhonePadLibrary.pdb
+D:\Myat Sandar Khaing\A80808\OldPhonePad_Application\OldPhonePadLibrary\obj\Debug\net8.0\ref\OldPhonePadLibrary.dll
